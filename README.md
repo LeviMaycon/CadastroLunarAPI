@@ -1,4 +1,4 @@
-# API de Cadastro de Usuários
+# CadastroLunarAPI uma API de Cadastro de Usuários
 
 Uma simples API construída com NestJS para gerenciar o cadastro de usuários.
 
