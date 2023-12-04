@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 # CadastroLunarAP uma API de Cadastro de Usuários
-=======
-# CadastroLunarAPI uma API de Cadastro de Usuários
->>>>>>> 2f58b269bb80159d5d2f8d5185338bd10cf9c0d0
 
 Uma simples API construída com NestJS para gerenciar o cadastro de usuários.
 
@@ -18,8 +15,9 @@ Uma simples API construída com NestJS para gerenciar o cadastro de usuários.
 
 3. Rode a API usando: `npm run start:dev`.
 
-<<<<<<< HEAD
 4. A API estará rodando em:  `http://localhost:3000`
-=======
-4. A API estará rodando em:  `http://localhost:3000`
->>>>>>> 2f58b269bb80159d5d2f8d5185338bd10cf9c0d0
+
+## Observações
+
+ - Se pretende utilizar a API, lembre-se de criar um banco de dados no MongoDB e um arquivo .env dentro da pasta do projeto, onde deve ser inserida a CHAVE do seu banco de dados.
+ - exemplo: `mongodb://<you_username>:process.env.CHAVE@host:port/database`  
